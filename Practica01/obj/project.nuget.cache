@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bi2XBmhWiEw=",
+  "dgSpecHash": "NiZHu2xCvxQ=",
   "success": true,
-  "projectFilePath": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Practica01\\Practica01.csproj",
+  "projectFilePath": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica01\\Practica01.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Gabriel\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

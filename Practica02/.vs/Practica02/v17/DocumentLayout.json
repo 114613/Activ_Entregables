@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EDF334-CA35-4409-B64A-77DC4BC99247}|ClassLibrary1\\ClassLibrary1.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\classlibrary1\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EDF334-CA35-4409-B64A-77DC4BC99247}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\data\\articulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EDF334-CA35-4409-B64A-77DC4BC99247}|ClassLibrary1\\ClassLibrary1.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\classlibrary1\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EDF334-CA35-4409-B64A-77DC4BC99247}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\data\\iarticulorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3EDF334-CA35-4409-B64A-77DC4BC99247}|ClassLibrary1\\ClassLibrary1.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\classlibrary1\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3EDF334-CA35-4409-B64A-77DC4BC99247}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\data\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|solutionrelative:controllers\\articuloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|solutionrelative:models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\services\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|solutionrelative:services\\iaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|g:\\gabriel\\programaci\u00F3n\\utn\\segundo cuatrimestre 2024\\programacion ii\\actividadesentregables\\activ_entregables\\practica02\\services\\aplicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C59AD296-E185-441B-A7E3-192DB0949840}|Practica02.csproj|solutionrelative:services\\aplicacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\ClassLibrary1\\Data\\DataHelper.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Data\\DataHelper.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\ClassLibrary1\\Data\\DataHelper.cs",
+              "RelativeToolTip": "ClassLibrary1\\Data\\DataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:13:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IArticuloRepository.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\ClassLibrary1\\Data\\IArticuloRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Data\\IArticuloRepository.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\ClassLibrary1\\Data\\IArticuloRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Data\\IArticuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:13:17.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloRepository.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\ClassLibrary1\\Data\\ArticuloRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Data\\ArticuloRepository.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\ClassLibrary1\\Data\\ArticuloRepository.cs",
+              "RelativeToolTip": "ClassLibrary1\\Data\\ArticuloRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:13:02.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAplicacion.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Services\\IAplicacion.cs",
+              "RelativeDocumentMoniker": "Services\\IAplicacion.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Services\\IAplicacion.cs",
+              "RelativeToolTip": "Services\\IAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:56:06.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AplicacionService.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Services\\AplicacionService.cs",
+              "RelativeDocumentMoniker": "Services\\AplicacionService.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Services\\AplicacionService.cs",
+              "RelativeToolTip": "Services\\AplicacionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:54:31.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticulosController.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Controllers\\ArticulosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticulosController.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Controllers\\ArticulosController.cs",
+              "RelativeToolTip": "Controllers\\ArticulosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:53:47.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Models\\Articulo.cs",
+              "ToolTip": "G:\\Gabriel\\Programaci\u00F3n\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica02\\Models\\Articulo.cs",
+              "RelativeToolTip": "Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:52:51.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

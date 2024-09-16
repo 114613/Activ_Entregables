@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Practica01\\Practica01.csproj",
+      "projectUniqueName": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica01\\Practica01.csproj",
       "projectName": "Practica01",
-      "projectPath": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Practica01\\Practica01.csproj",
+      "projectPath": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica01\\Practica01.csproj",
       "packagesPath": "C:\\Users\\Gabriel\\.nuget\\packages\\",
-      "outputPath": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Practica01\\obj\\",
+      "outputPath": "G:\\Gabriel\\Programación\\UTN\\Segundo Cuatrimestre 2024\\Programacion II\\ActividadesEntregables\\Activ_Entregables\\Practica01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",

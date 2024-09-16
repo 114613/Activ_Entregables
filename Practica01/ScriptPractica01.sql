@@ -87,3 +87,51 @@ BEGIN
     DELETE FROM DetalleFactura WHERE FacturaId = @NroFactura
     DELETE FROM Factura WHERE NroFactura = @NroFactura
 END
+
+
+--Practica02
+CREATE PROCEDURE SP_Agregar_Articulo
+    @Nombre NVARCHAR(50),
+    @PrecioUnitario DECIMAL(18, 2)
+AS
+BEGIN
+    INSERT INTO Articulo (Nombre, PrecioUnitario)
+    VALUES (@Nombre, @PrecioUnitario);
+END;
+
+
+
+CREATE PROCEDURE SP_Consultar_Articulo
+    @Id INT
+AS
+BEGIN
+    SELECT * FROM Articulo WHERE Id = @Id;
+END;
+
+
+
+CREATE PROCEDURE SP_Listar_Articulos
+AS
+BEGIN
+    SELECT * FROM Articulo;
+END;
+
+
+CREATE PROCEDURE SP_Editar_Articulo
+    @Id INT,
+    @Nombre NVARCHAR(50),
+    @PrecioUnitario DECIMAL(18, 2)
+AS
+BEGIN
+UPDATE Articulo
+    SET Nombre = @Nombre, PrecioUnitario = @PrecioUnitario
+    WHERE Id = @Id;
+END;
+
+
+CREATE PROCEDURE SP_Eliminar_Articulo
+    @Id INT
+AS
+BEGIN
+    DELETE FROM Articulo WHERE Id = @Id;
+END;
