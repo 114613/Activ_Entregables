@@ -50,8 +50,7 @@
               "RelativeToolTip": "ClassLibrary1\\Data\\DataHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T20:13:07.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T20:13:07.715Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "ClassLibrary1\\Data\\IArticuloRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:13:17.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T19:13:17.501Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Services\\IAplicacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:56:06.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T18:56:06.216Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Services\\AplicacionService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:54:31.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T18:54:31.135Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Controllers\\ArticulosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:53:47.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T18:53:47.253Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "Models\\Articulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:52:51.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T18:52:51.737Z"
             }
           ]
         }
