@@ -59,12 +59,15 @@ namespace Practica05Library.Repositories
             return _context.TServicios.Where(s => s.EnPromocion != "n").ToList();
         }
 
-        public bool Update(int id)
+        public bool Update(int id, TServicio servicio)
         {
-            var servicio = GetById(id);
-            if (servicio != null)
+            var servicioUpdate = GetById(id);
+            if (servicioUpdate != null)
             {
-                _context.TServicios.Update(servicio);
+                servicioUpdate.Nombre = servicio.Nombre;
+                servicioUpdate.Costo = servicio.Costo;
+                servicioUpdate.EnPromocion = servicio.EnPromocion;
+
                 return _context.SaveChanges() > 0;
             }
             else

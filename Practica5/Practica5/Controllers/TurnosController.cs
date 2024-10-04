@@ -100,18 +100,26 @@ namespace Practica5.Controllers
 
         // PUT api/<TurnosController>/5
         [HttpPut("{id}")]
-        public IActionResult Put(int id)
+        public IActionResult Put(int id, [FromBody] TTurno turno)
         {
             try
             {
-                if (_repository.Update(id))
+                if (id != 0)
                 {
-                    return Ok("El turno ha sido actualizado correctamente.");
+                    if (_repository.Update(id, turno))
+                    {
+                        return Ok("El turno ha sido actualizado correctamente.");
+                    }
+                    else
+                    {
+                        return BadRequest("El turno no ha podido ser actualizado.");
+                    }
                 }
                 else
                 {
-                    return NotFound($"El turno con id {id} no existe.");
+                    return NotFound($"No se ha encontrado el turno con id {id}");
                 }
+                
             }
             catch (Exception)
             {

@@ -58,12 +58,16 @@ namespace Practica05Library.Repositories
             return _context.TTurnos.FirstOrDefault(t => t.Id == id && t.Activo == true);
         }
 
-        public bool Update(int id)
+        public bool Update(int id, TTurno turno)
         {
-            var turno = GetById(id);
-            if( turno != null)
+            var turnoUpdate = _context.TTurnos.Find(id);
+            if( turnoUpdate != null)
             {
-                _context.TTurnos.Update(turno);
+                turnoUpdate.Fecha = turno.Fecha;
+                turnoUpdate.Hora = turno.Hora;
+                turnoUpdate.Cliente = turno.Cliente;
+                turnoUpdate.Activo = turno.Activo;
+
                 return _context.SaveChanges() > 0;
             }
             else

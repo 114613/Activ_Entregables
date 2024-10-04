@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Practica05Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7119aec292885674c08a7d55c3ef55239ddc7149")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feda4a53cfc6ff55209c468daeaa2326b94d3490")]
 [assembly: System.Reflection.AssemblyProductAttribute("Practica05Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Practica05Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

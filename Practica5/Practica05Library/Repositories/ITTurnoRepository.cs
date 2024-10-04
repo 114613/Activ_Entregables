@@ -12,7 +12,7 @@ namespace Practica05Library.Repositories
         List<TTurno>? GetAll();
         TTurno? GetById(int id);
         bool Create(TTurno turno);
-        bool Update(int id);
+        bool Update(int id, TTurno turno);
         bool Delete(int id);
         List<TTurno> GetByDate(DateTime fec1, DateTime fec2);
     }

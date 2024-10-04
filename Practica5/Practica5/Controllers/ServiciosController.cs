@@ -96,13 +96,13 @@ namespace Practica5.Controllers
 
         // PUT api/<ServiciosController>/5
         [HttpPut("{id}")]
-        public IActionResult Put([FromBody] TServicio servicio)
+        public IActionResult Put(int id, [FromBody] TServicio servicio)
         {
             try
             {
-                if (IsValid(servicio))
+                if(id != 0)
                 {
-                    if (_repository.Update(servicio.Id))
+                    if (_repository.Update(id, servicio))
                     {
                         return Ok("El servicio ha sido actualizado correctamente.");
                     }
