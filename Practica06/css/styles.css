@@ -1,0 +1,64 @@
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+}
+.sidebar {
+    background-color: #007bff;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    color: white;
+}
+.sidebar .menu-icon {
+    font-size: 24px;
+    cursor: pointer;
+}
+.sidebar .profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.sidebar .profile img {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.sidebar .profile p {
+    margin: 5px 0;
+}
+.sidebar .menu {
+    margin-top: 20px;
+}
+.sidebar .menu li {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+}
+.sidebar .menu li:hover {
+    background-color: #0056b3;
+}
+.sidebar .menu li i {
+    margin-right: 10px;
+}
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
+.main-content h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+.footer {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
